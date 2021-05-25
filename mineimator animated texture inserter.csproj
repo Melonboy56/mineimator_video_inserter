@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>mineimator_animated_texture_inserter</RootNamespace>
+    <Authors>Melonsboy</Authors>
+    <Product>Mineimator Animated Texture inserter</Product>
+    <Description>This program inserts images (a lot of them) in your mineimator project to animate them</Description>
+    <PackageId>mineimator_texture_inserter</PackageId>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

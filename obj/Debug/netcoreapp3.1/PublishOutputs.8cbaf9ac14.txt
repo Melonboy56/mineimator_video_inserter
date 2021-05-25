@@ -1,0 +1,6 @@
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\mineimator animated texture inserter.exe
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\mineimator animated texture inserter.dll
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\mineimator animated texture inserter.deps.json
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\mineimator animated texture inserter.runtimeconfig.json
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\mineimator animated texture inserter.pdb
+C:\Users\Melon\source\repos\mineimator animated texture inserter\mineimator animated texture inserter\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mineimator animated texture inserter": {
+      "commandName": "Project",
+      "commandLineArgs": "/p \"C:\\Users\\Melon\\Mine-imator\\Projects\\test thing 1\\test thing 1.miproject\" /i \"C:\\Users\\Melon\\Desktop\\Mineimator animated texture inserter\\Andromedik-Let-Me-In-NCS-Release\" /id QN5175OA887C1563",
+      "remoteDebugEnabled": false
+    }
+  }
+}
